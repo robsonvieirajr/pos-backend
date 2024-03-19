@@ -1,4 +1,4 @@
-package com.kamikase.web.posbackend.model.dto;
+package com.kamikase.web.posbackend.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

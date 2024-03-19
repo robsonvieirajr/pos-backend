@@ -1,6 +1,6 @@
 package com.kamikase.web.posbackend.exceptions;
 
-import com.kamikase.web.posbackend.model.dto.ErrorDTO;
+import com.kamikase.web.posbackend.dto.ErrorDTO;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.core.annotation.Order;
 import org.springframework.http.HttpStatus;
