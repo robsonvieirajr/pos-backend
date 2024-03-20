@@ -1,4 +1,4 @@
-Este é um projeto de backend para um sistema de gerenciamento de esportes, desenvolvido como parte do curso de Pós-graduação em Desenvolvimento Full Stack Java da UNIPE.
+Este é um projeto de backend com Crud básico de esportes, desenvolvido como parte do curso de Pós-graduação em Desenvolvimento Full Stack Java da UNIPE.
 Tecnologias Utilizadas
 
     Java
