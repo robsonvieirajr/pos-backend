@@ -28,6 +28,6 @@ O servidor estará acessível em http://localhost:8080.
 Documentação da API
 
 A documentação da API pode ser acessada em http://localhost:8080/swagger-ui.html.
-Desenvolvedor
-
-    Robson Vieira Cavalcanti Junior - Desenvolvedor Java Full Stack
+Desenvolvedores:
+    Diego Magno Tavares da silva - Gerente Ti
+    Robson Vieira Cavalcanti Junior - Analista de Sistemas
