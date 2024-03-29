@@ -28,6 +28,8 @@ O servidor estará acessível em http://localhost:8080.
 Documentação da API
 
 A documentação da API pode ser acessada em http://localhost:8080/swagger-ui.html.
+
 Desenvolvedores:
-    Diego Magno Tavares da silva - Gerente Ti
-    Robson Vieira Cavalcanti Junior - Analista de Sistemas
+- Diego Magno Tavares da Silva - Gerente de TI
+- Robson Vieira Cavalcanti Junior - Analista de Sistemas
+
